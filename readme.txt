@@ -1,7 +1,20 @@
+
+First create a repository on github
+===================================
+Step 0: git clone <<Repository URL .git>
 Step 1: git status (Checks status)
 Step 2: git add <filename> (add every filename... or use '.' for all files and folders)
-Step 3: git_commit <one_word_message_for_commit> (It's one word cos i suck at scripts)
+Step 3: git commit -m "<COMMIT MESSAGE" 
+step 4: git push
 
-CAUTION: Every commit I push to remote... :) BEWARE!! lol
+Pull create a repository on github
+===================================
+Step 0: git pull
+Step 1: git status (Checks status)
+Step 2: git add <filename> (add every filename... or use '.' for all files and folders)
+Step 3: git commit -m "<COMMIT MESSAGE" 
+step 4: git push
+
+CAUTION: Every commit I push to remote... :) 
 
       
